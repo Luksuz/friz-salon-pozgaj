@@ -1782,3 +1782,43 @@ html {
     padding-top: 20rem;
   }
 }
+
+
+
+.brand-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.brand-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  height: 15rem;
+  border-radius: 10px;
+  box-shadow: 5 5 10px;
+}
+
+.parent-container{
+  margin-top: 7rem;
+}
+
+@media (min-width: 768px) {
+  .parent-container{
+    margin-left: 12rem;
+    margin-right: 13rem;
+  }
+}
+
+.pricing{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6rem;
+}
+
