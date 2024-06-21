@@ -10,7 +10,12 @@ This repository contains the frontend codebase for Pozgaj Hair Salon's website. 
 
 To preview and work on the frontend locally, follow these steps:
 
-Clone the repository and open the index.html with live server.
+Clone the repository 
+
+```bash
+npm install
+```
+and open the index.html with live server.
 
 
 ## FEATURES
